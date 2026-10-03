@@ -47,7 +47,7 @@ main {
   text-transform: capitalize;
   position: absolute;
   top: 360px;
-  left: 197px;
+  left: 180px;
   font-family: serif;
   
 }
@@ -55,7 +55,7 @@ main {
 .pokemon__number{
   position: absolute;
   top: 360px;
-  left: 160px;
+  left: 140px;
   font-family: serif;
   color: #3a444d;
 }
